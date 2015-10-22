@@ -15,7 +15,7 @@ int main() {
 	int i ;
 	int j;
 	int k ; 
-	int hhh ;
+	int lll ;
 	return 0;
 	
 }
