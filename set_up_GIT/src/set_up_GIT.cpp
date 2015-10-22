@@ -14,5 +14,7 @@ int main() {
 	cout << "whats up" <<endl;
 	int i ;
 	int j;
+	int k ; 
 	return 0;
+	
 }
